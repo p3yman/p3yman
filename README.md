@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Front-End Developer and UI designer with industry experience building websites and large-scale web applications. I’m passionate about creating powerful products using JavaScript (Vue.js and React), CSS (Sass), and PHP (Laravel and Wordpress).
+
+- 🏡  I’m currently living in Istanbul, Turkey.
+- 🔭  I’m currently working with YasnaTeam.
+- 📫  peyman.eskandari@gmail.com
+- 🌍  https://peyman.me
+
+
 <!--
 **p3yman/p3yman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
