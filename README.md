@@ -2,10 +2,13 @@
 
 I am a Front-End Developer and UI designer with industry experience building websites and large-scale web applications. I’m passionate about creating powerful products using JavaScript (Vue.js and React), CSS (Sass), and PHP (Laravel and Wordpress).
 
-- 🏡  I’m currently living in Istanbul, Turkey.
-- 🔭  I’m currently working with YasnaTeam.
-- 📫  peyman.eskandari@gmail.com
-- 🌍  https://peyman.me
+🏡  I’m living in Istanbul, Turkey.
+
+🔭  I’m currently looking for a remote Front-End devleoper position.
+
+📫  peyman.eskandari@gmail.com
+
+🌍  https://peyman.me
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p3yman&theme=prussian&show_icons=true&count_private=true)](https://github.com/p3yman)
