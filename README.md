@@ -4,7 +4,7 @@ I am a Front-End Developer and UI designer with industry experience building web
 
 🏡  I’m living in Istanbul, Turkey.
 
-🔭  I’m currently looking for a remote Front-End devleoper position.
+🔭  Front-End developer at Rebilly.
 
 📫  peyman.eskandari@gmail.com
 
