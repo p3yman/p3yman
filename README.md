@@ -2,9 +2,9 @@
 
 I am a Front-End Developer and UI designer with industry experience building websites and large-scale web applications. I’m passionate about creating powerful products using JavaScript (Vue.js and React), CSS (Sass), and PHP (Laravel and Wordpress).
 
-🏡  I’m living in Istanbul, Turkey.
+🏡  I’m living in the Netherlands.
 
-🔭  Front-End developer at Rebilly.
+🔭  Senior Front-End developer at [Instruqt](https://instruqt.com/).
 
 📫  peyman.eskandari@gmail.com
 
